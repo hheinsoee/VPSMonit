@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+*.log
+
+# macOS
+.DS_Store
+
+# Expo/React Native
+.expo/
+.expo-shared/
+*.expo
+*.expo-shared
+
+# Build artifacts
+build/
+dist/
+*.js.map
+*.d.ts
+
+# Environment files
+.env
+.env.*
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Lock files
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Miscellaneous
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+
+# Coverage
+coverage/
